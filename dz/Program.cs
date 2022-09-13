@@ -10,7 +10,7 @@ Console.WriteLine("Введите массив из 5 строк :");
       }
      void PrintMass(string[] array1){
         for (int i = 0;i < array1.Length;i++){
-           Console.Write($"{array1[i]}" + " "); 
+           Console.Write($"{array1[i]}" + "   "); 
         }
      }
 void Second(string[] array1, string[] array2)
