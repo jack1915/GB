@@ -1,4 +1,5 @@
-﻿string[] array1 = new string[5] ;
+﻿// Create read.my
+string[] array1 = new string[5] ;
 string[] array2 = new string[array1.Length];
 Console.WriteLine("Введите массив из 5 строк :");
 
